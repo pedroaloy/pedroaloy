@@ -23,12 +23,20 @@ Also as an IT enthusiast who finds joy in helping others overcome their computer
 - **Teamwork**: Collaborating effectively to achieve goals.
 - **Self-Development**: Continuously learning and evolving.
 
+## 📊 **Projects I worked at Kood/Sisu ** 
+
+
+# Match-me (Javascript, Go language, PostgreSQL, Sockets.io, HTML+CSS, Vite+React) by Tomi Koivuniemi, Tomi Stavén & Pedro Aloy
+Feb 2025 - Mar 2025
+ 
 
 
 
-
+# Beachside Racetrack (JavaScript, HTML+CSS, Soket.io, Docker, MVP) by Tomi Koivuniemi & Pedro Aloy
+Dec 2024 - Feb 2025
 ---
 
-## 🤝 **Let's Connect** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedro-aloy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pedro_aloy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'>](https://www.xing.com/profile/Pedro_Aloy)  
+## 🤝 **Let's Connect** 
 
 I'm always open to connecting and exploring new opportunities. Whether you need help solving a problem, want to collaborate on a project, or just have an interesting idea to discuss, feel free to reach out!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedro-aloy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pedro_aloy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'>](https://www.xing.com/profile/Pedro_Aloy)  
