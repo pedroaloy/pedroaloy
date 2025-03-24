@@ -30,11 +30,11 @@ Also as an IT enthusiast who finds joy in helping others overcome their computer
 Feb 2025 - Mar 2025
  
 
-
-
 ### Beachside Racetrack (JavaScript, HTML+CSS, Soket.io, Docker, MVP) by Tomi Koivuniemi & Pedro Aloy
 Dec 2024 - Feb 2025
----
+ 
+
+
 
 ## 🤝 **Let's Connect** 
 
