@@ -56,6 +56,12 @@ Jul 2024 - Aug 2024
 It displays a web based catalogue of cars from a predeterminate API and you can search and compare they.
 
 
+### Art Decoder Web Interface (HTTP+CSS, Go language) by Pedro Aloy
+Jun 2024 - Jun 2024
+I would like to introduce to you the ART DECODER web interface. It takes a string as an input and converts it into a piece of text-based art:
+
+
+
 
 ## 🤝 **Let's Connect** 
 
