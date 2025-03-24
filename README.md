@@ -6,13 +6,13 @@ I'm a Full Stack Developer student at Kood/Sisu (koodsisu.fi) and an IT enthusia
 
 Also as an IT enthusiast who finds joy in helping others overcome their computer challenges. I take a unique approach by incorporating games, pop culture references, and even philosophy to make learning and problem-solving engaging and relatable.
 
-Skills: Go / REACT / JS / HTML+CSS / SQlite / PostgreSQ / Docker 
-
-- 🌱 I’m currently learning for Full Stack Developer 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedro-aloy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pedro_aloy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'>](https://www.xing.com/profile/Pedro_Aloy)  
-
+## 🧰 **Tech Skills**
+ 
+- 👨‍💻 Go, JS, REACT, HTML+CSS
+- 📂 SQlite, PostgreSQ 
+- 🚢 Docker
+- 📦 Virtual Machines
+- 🎦 OBS
 
 ## 🧠 **Soft Skills**
 - **Ideas Mixer**: Transforming complex concepts into actionable solutions.
@@ -22,6 +22,11 @@ Skills: Go / REACT / JS / HTML+CSS / SQlite / PostgreSQ / Docker
 - **Detail-Solution Oriented**: Staying focused on precision and outcomes.
 - **Teamwork**: Collaborating effectively to achieve goals.
 - **Self-Development**: Continuously learning and evolving.
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedro-aloy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pedro_aloy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'>](https://www.xing.com/profile/Pedro_Aloy)  
+
+
 
 ---
 
