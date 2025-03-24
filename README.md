@@ -31,7 +31,7 @@ Also as an IT enthusiast who finds joy in helping others overcome their computer
 It is a a full-stack recommendation application, to connect users based on their profile information.
 
 
-__
+--
 ### Beachside Racetrack (JavaScript, HTML+CSS, Soket.io, Docker, MVP) by Tomi Koivuniemi & Pedro Aloy
 #### Dec 2024 - Feb 2025
 It is a Minimum Viable Product (MVP) about interfaces and information screens for a racetrack that we learnt to develop a basic software working in Real-time functionality. 
