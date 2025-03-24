@@ -8,6 +8,13 @@ Also as an IT enthusiast who finds joy in helping others overcome their computer
 
 Skills: Go / REACT / JS / HTML / CSS / Docker / 
 
+- 🌱 I’m currently learning for Full Stack Developer 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pedro-aloy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/pedro_aloy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'>](https://www.xing.com/profile/Pedro_Aloy)  
+
+
+
 ## 🧠 **Soft Skills**
 - **Ideas Mixer**: Transforming complex concepts into actionable solutions.
 - **Adaptability**: Thriving in ever-changing environments.
