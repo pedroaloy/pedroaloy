@@ -3,6 +3,7 @@
 Hello there! I'm a **Full Stack Developer student** at Kood/Sisu (koodsisu.fi) and an **IT enthusiast** with a keen interest in **Data Engineering**, **Data Analysis**, and **Business Intelligence (BI)**. I thrive on problem-solving and enjoy tackling challenges with creativity and simplicity.
 
 ---
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroaloy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧠 **Soft Skills**
 - **Ideas Mixer**: Transforming complex concepts into actionable solutions.
