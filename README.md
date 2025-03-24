@@ -44,6 +44,8 @@ It is a Minimum Viable Product (MVP) about interfaces and information screens fo
 #### Oct 2024 - Nov 2024
 It is a discussion forum and has a front end that's accessible via web browsers. The forum has data stored in SQL tables, which are accessed by the web server written in Golang. The only external packages used were the mandatory SQL package, and for some extra content, we used bcrypt.
 
+<img src="https://github.com/pedroaloy/pedroaloy/blob/main/ForumeMain.png" height="320" /> <img src="https://github.com/pedroaloy/pedroaloy/blob/main/ForumExample.png" height="320" />
+
 ---
 ### Itinerary-Stations (Go language, Algorithm Design) by Henrik Kuusipalo & Pedro Aloy
 #### Sep 2024 - Oct 2024
@@ -58,12 +60,14 @@ In case of errors, the script outputs what caused it, so you may look into it an
 #### Jul 2024 - Aug 2024
 It displays a web based catalogue of cars from a predeterminate API and you can search and compare they.
 
+<img src="https://github.com/pedroaloy/pedroaloy/blob/main/CarsMain.jpg" height="320" /> <img src="https://github.com/pedroaloy/pedroaloy/blob/main/CarsCompare.jpg" height="320" />
+
 ---
 ### Art Decoder Web Interface (HTTP+CSS, Go language) by Pedro Aloy
 #### Jun 2024 - Jun 2024
 I would like to introduce to you the ART DECODER web interface. It takes a string as an input and converts it into a piece of text-based art:
 
-
+<img src="https://github.com/pedroaloy/pedroaloy/blob/main/ArtMain.jpg" height="320" /> <img src="https://github.com/pedroaloy/pedroaloy/blob/main/ArtExample.jpg" height="320" />
 
 ---
 ## 🤝 **Let's Connect** 
