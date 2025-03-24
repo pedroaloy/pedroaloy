@@ -27,23 +27,23 @@ Also as an IT enthusiast who finds joy in helping others overcome their computer
 
 
 ### Match-me (Javascript, Go language, PostgreSQL, Sockets.io, HTML+CSS, Vite+React) by Tomi Koivuniemi, Tomi Stavén & Pedro Aloy
-### Feb 2025 - Mar 2025
+#### Feb 2025 - Mar 2025
 It is a a full-stack recommendation application, to connect users based on their profile information.
 
 
 
 ### Beachside Racetrack (JavaScript, HTML+CSS, Soket.io, Docker, MVP) by Tomi Koivuniemi & Pedro Aloy
-### Dec 2024 - Feb 2025
+#### Dec 2024 - Feb 2025
 It is a Minimum Viable Product (MVP) about interfaces and information screens for a racetrack that we learnt to develop a basic software working in Real-time functionality. 
 
 
 ### Literary Lions Forum (Go language, HTML+CSS, SQL, Docker, ERD) by Henrik Kuusipalo & Pedro Aloy
-### Oct 2024 - Nov 2024
+#### Oct 2024 - Nov 2024
 It is a discussion forum and has a front end that's accessible via web browsers. The forum has data stored in SQL tables, which are accessed by the web server written in Golang. The only external packages used were the mandatory SQL package, and for some extra content, we used bcrypt.
 
 
 ### Itinerary-Stations (Go language, Algorithm Design) by Henrik Kuusipalo & Pedro Aloy
-### Sep 2024 - Oct 2024
+#### Sep 2024 - Oct 2024
 Script developed with Go language that takes in specifically formatted text maps of station names and their intertwined connections. 
 
 Then it uses the connection to find the shortest amount of time (in turns) it takes for any number of trains to reach a common goal from a named station.
@@ -52,12 +52,12 @@ In case of errors, the script outputs what caused it, so you may look into it an
 
 
 ### Cars-Viewer (HTML+CSS, Go language and API) by Henrik Kuusipalo & Pedro Aloy
-### Jul 2024 - Aug 2024
+#### Jul 2024 - Aug 2024
 It displays a web based catalogue of cars from a predeterminate API and you can search and compare they.
 
 
 ### Art Decoder Web Interface (HTTP+CSS, Go language) by Pedro Aloy
-### Jun 2024 - Jun 2024
+#### Jun 2024 - Jun 2024
 I would like to introduce to you the ART DECODER web interface. It takes a string as an input and converts it into a piece of text-based art:
 
 
