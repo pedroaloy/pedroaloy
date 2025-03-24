@@ -59,9 +59,9 @@ Terminal example:
 
 $ go run . maps/jungle-desert-10.map jungle metropolis 5
 
-[Turn 1]  T1-farms 
+[Turn 1] T1-farms 
 
-[Turn 2]  T1-downtown T2-farms 
+[Turn 2] T1-downtown T2-farms 
 
 [Turn 3] T1-metropolis T2-downtown T3-farms 
 
