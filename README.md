@@ -26,13 +26,13 @@ Also as an IT enthusiast who finds joy in helping others overcome their computer
 ## 📊 **Projects I worked at Kood/Sisu ** 
 
 
-# Match-me (Javascript, Go language, PostgreSQL, Sockets.io, HTML+CSS, Vite+React) by Tomi Koivuniemi, Tomi Stavén & Pedro Aloy
+### Match-me (Javascript, Go language, PostgreSQL, Sockets.io, HTML+CSS, Vite+React) by Tomi Koivuniemi, Tomi Stavén & Pedro Aloy
 Feb 2025 - Mar 2025
  
 
 
 
-# Beachside Racetrack (JavaScript, HTML+CSS, Soket.io, Docker, MVP) by Tomi Koivuniemi & Pedro Aloy
+### Beachside Racetrack (JavaScript, HTML+CSS, Soket.io, Docker, MVP) by Tomi Koivuniemi & Pedro Aloy
 Dec 2024 - Feb 2025
 ---
 
