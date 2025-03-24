@@ -62,7 +62,7 @@ I would like to introduce to you the ART DECODER web interface. It takes a strin
 
 
 
-
+---
 ## 🤝 **Let's Connect** 
 
 I'm always open to connecting and exploring new opportunities. Whether you need help solving a problem, want to collaborate on a project, or just have an interesting idea to discuss, feel free to reach out!
