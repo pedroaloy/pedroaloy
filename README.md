@@ -55,6 +55,24 @@ Then it uses the connection to find the shortest amount of time (in turns) it ta
 
 In case of errors, the script outputs what caused it, so you may look into it and try again. To help with testing particular error cases, a map pool with different names are found in a separate error maps/ folder.
 
+Terminal example: 
+
+$ go run . maps/jungle-desert-10.map jungle metropolis 5
+
+[Turn 1]  T1-farms 
+
+[Turn 2]  T1-downtown T2-farms 
+
+[Turn 3] T1-metropolis T2-downtown T3-farms 
+
+[Turn 4] T2-metropolis T3-downtown T4-farms 
+
+[Turn 5] T3-metropolis T4-downtown T5-farms 
+
+[Turn 6] T4-metropolis T5-downtown 
+
+[Turn 7] T5-metropolis
+
 ---
 ### Cars-Viewer (HTML+CSS, Go language and API) by Henrik Kuusipalo & Pedro Aloy
 #### Jul 2024 - Aug 2024
