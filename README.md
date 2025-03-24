@@ -44,7 +44,7 @@ It is a Minimum Viable Product (MVP) about interfaces and information screens fo
 #### Oct 2024 - Nov 2024
 It is a discussion forum and has a front end that's accessible via web browsers. The forum has data stored in SQL tables, which are accessed by the web server written in Golang. The only external packages used were the mandatory SQL package, and for some extra content, we used bcrypt.
 
-<img src="https://github.com/pedroaloy/pedroaloy/blob/main/ForumeMain.png" height="320" /> <img src="https://github.com/pedroaloy/pedroaloy/blob/main/ForumExample.png" height="320" />
+<img src="https://github.com/pedroaloy/pedroaloy/blob/main/ForumMain.png" height="320" /> <img src="https://github.com/pedroaloy/pedroaloy/blob/main/ForumExample.png" height="320" />
 
 ---
 ### Itinerary-Stations (Go language, Algorithm Design) by Henrik Kuusipalo & Pedro Aloy
