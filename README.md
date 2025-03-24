@@ -29,12 +29,15 @@ Also as an IT enthusiast who finds joy in helping others overcome their computer
 ### Match-me (Javascript, Go language, PostgreSQL, Sockets.io, HTML+CSS, Vite+React) by Tomi Koivuniemi, Tomi Stavén & Pedro Aloy
 #### Feb 2025 - Mar 2025
 It is a a full-stack recommendation application, to connect users based on their profile information.
+
 <img src="https://github.com/pedroaloy/pedroaloy/blob/main/MatchMain.jpg" height="320" />  <img src="https://github.com/pedroaloy/pedroaloy/blob/main/MatchChat.jpg" height="320" />
 
-----
+ 
 ### Beachside Racetrack (JavaScript, HTML+CSS, Soket.io, Docker, MVP) by Tomi Koivuniemi & Pedro Aloy
 #### Dec 2024 - Feb 2025
-It is a Minimum Viable Product (MVP) about interfaces and information screens for a racetrack that we learnt to develop a basic software working in Real-time functionality. 
+It is a Minimum Viable Product (MVP) about interfaces and information screens for a racetrack that we learnt to develop a basic software working in Real-time functionality.
+
+<img src="https://github.com/pedroaloy/pedroaloy/blob/main/RaceMain.jpg" height="320" /> <img src="https://github.com/pedroaloy/pedroaloy/blob/main/RaceControl.jpg" height="320" />
 
 ---
 ### Literary Lions Forum (Go language, HTML+CSS, SQL, Docker, ERD) by Henrik Kuusipalo & Pedro Aloy
